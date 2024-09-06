@@ -5,7 +5,7 @@
 - 2
 - 3
 
-[Click Here](https://bing.cn/) to BING China
+[Click Here](https://pixiv.net/) 开始涩涩
 
 ## Intro
 <img width='846' height='1280' alt='不许涩涩' src='https://github.com/user-attachments/assets/c11e7d03-ca69-4397-b037-fda8012a2bf2'>
