@@ -8,7 +8,7 @@
 [Click Here](https://pixiv.net/) 开始涩涩
 
 ## Intro
-<img width='846' height='1280' alt='不许涩涩' src='https://github.com/user-attachments/assets/c11e7d03-ca69-4397-b037-fda8012a2bf2'>
+
 ![GMK5Zh0aQAAmwHl](https://github.com/user-attachments/assets/125a3634-4712-45e8-9aae-caea340f8546)
 ![GMziZaAbkAApqul](https://github.com/user-attachments/assets/2272d9fe-b225-4989-9dbd-6f87428ab090)
 ![GM-b9YObMAEjgrC](https://github.com/user-attachments/assets/a97625d1-467f-4bbe-ab5b-00d93e1cf5c7)
